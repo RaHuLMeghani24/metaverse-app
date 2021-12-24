@@ -13,7 +13,7 @@ function Header() {
                 <div className='relative h-24 w-24 mx-auto hidden
                                 lg:inline-grid'>
                 <Image layout="fill" 
-                src="https://links.papareact.com/3pi"
+                src="https://i.ibb.co/Sx7p0mg/avatar.png"
                 className="rounded-full"
                 objectFit="cover"/>
                 </div>

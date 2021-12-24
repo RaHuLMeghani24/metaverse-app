@@ -15,7 +15,7 @@ function Login() {
                 {/* Logo */}
                 <Image 
                     className='object-cover rounded-full'
-                     src="https://links.papareact.com/3pi" height={200} width={200}
+                     src="https://i.ibb.co/Sx7p0mg/avatar.png" height={200} width={200}
                 />
 
                 {/* Login button */}
